@@ -1,0 +1,25 @@
+{"sysstat": {
+	"hosts": [
+		{
+			"nodename": "josedavids-VMware-Virtual-Platform",
+			"sysname": "Linux",
+			"release": "7.0.0-38-generic",
+			"machine": "x86_64",
+			"number-of-cpus": 2,
+			"file-date": "2026-10-31",
+			"file-utc-time": "00:00:01",
+			"timezone": "WET",
+			"statistics": [
+				{
+					"timestamp": {"date": "2026-10-31", "time": "02:20:16", "tz": "UTC", "interval": 607},
+					"cpu-load": [
+						{"cpu": "all", "user": 37.11, "nice": 0.01, "system": 1.79, "iowait": 0.00, "steal": 0.00, "idle": 61.10}
+					],
+					"memory": {"memfree": 2169144, "avail": 3930724, "memused": 1109356, "memused-percent": 20.21, "buffers": 44132, "cached": 1913492, "commit": 5043776, "commit-percent": 52.09, "active": 2208252, "inactive": 460372, "dirty": 404}
+				}
+			],
+			"restarts": [
+			]
+		}
+	]
+}}
